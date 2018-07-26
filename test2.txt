@@ -2,6 +2,12 @@ Hello
 
 Bhand
 
+
 Committed in master
 
 changed by Branch 2
+
+
+changed by new-branch-1
+
+Committed in master
